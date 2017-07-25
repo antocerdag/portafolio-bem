@@ -1,3 +1,109 @@
+body {
+  padding: 0;
+  margin: 0 auto; }
 
+.navbar-default {
+  background-color: #F5464D;
+  color: white;
+  text-align: center; }
+
+.navbar-nav {
+  width: 100%;
+  text-align: center; }
+  .navbar-nav li {
+    float: none;
+    display: inline-block;
+    color: white; }
+
+.logo {
+  width: 77px;
+  border: 6px solid white;
+  margin-left: 341%; }
+
+.seccion1 {
+  background-color: #1E3747;
+  color: white;
+  padding: 50px;
+  margin-top: -21px; }
+
+#circle {
+  width: 232px;
+  height: 232px;
+  background: white;
+  margin-left: 42%;
+  border-radius: 50%; }
+
+.circle--txt {
+  color: #1E3747;
+  font-size: 32px;
+  font-weight: 800;
+  margin-left: 33%;
+  position: relative;
+  top: 95px; }
+
+.user--txt__verde {
+  color: #1AD08C;
+  font-weight: 100;
+  font-size: 38px; }
+
+.user--txt__blanco {
+  color: white;
+  width: 71%;
+  font-weight: 300;
+  font-size: 15px; }
+
+.user--btn__verde {
+  background-color: #1AD08C;
+  color: white;
+  width: 35%;
+  height: 59px;
+  border-radius: 42px;
+  margin-top: 23px; }
+  .user--btn__verde .fa-paper-plane {
+    position: relative;
+    left: -31%;
+    top: 10px;
+    font-size: 21px; }
+  .user--btn__verde p {
+    position: relative;
+    top: -15px;
+    left: 9%;
+    font-size: 18px;
+    font-weight: 400; }
+
+.redes-sociales {
+  margin-top: 41px; }
+
+.fa-facebook-official {
+  color: #4F74B1;
+  padding: 10px; }
+
+.fa-twitter-square {
+  color: #2DA5CE;
+  padding: 10px; }
+
+.fa-google-plus-square {
+  color: #C6554E;
+  padding: 10px; }
+
+.fa-pinterest-square {
+  color: #BE303D;
+  padding: 10px; }
+
+.fa-dribbble {
+  color: #D05C89;
+  padding: 10px; }
+
+.proyectos {
+  background-color: #1AD08C; }
+
+.proyectos--txt__verde {
+  color: white;
+  margin-top: 6%;
+  margin-bottom: 5%; }
+
+.proyectos--img {
+  width: 63%;
+  margin-left: 21%; }
 
 /*# sourceMappingURL=main.css.map */
